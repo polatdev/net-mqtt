@@ -1,5 +1,5 @@
 {
-    "name": "nextpost-tech/net-mqtt-php",
+    "name": "nextpost-tech/net-mqtt",
     "description": "MQTT protocol implementation",
     "keywords": [
         "net",
