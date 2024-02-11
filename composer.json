@@ -1,11 +1,11 @@
 {
-    "name": "nextpost-tech/net-mqtt",
+    "name": "mjcodebase/net-mqtt",
     "description": "MQTT protocol implementation",
     "keywords": [
         "net",
         "mqtt"
     ],
-    "homepage": "https://github.com/nextpost-tech/net-mqtt",
+    "homepage": "https://github.com/mjcodebase/net-mqtt",
     "license": "MIT",
     "authors": [
         {
@@ -15,8 +15,8 @@
             "role": "Developer"
         },
         {
-            "name": "Nextpost.tech",
-            "homepage": "https://nextpost.tech",
+            "name": "Michael Johnson",
+            "homepage": "https://t.me/mjohnsoncode",
             "role": "Developer"
         }
     ],
